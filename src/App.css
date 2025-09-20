@@ -51,7 +51,6 @@
   display: block;
 }
 .res__wrapper {
-  width: 75%;
   height: 30px;
   padding-left: 50px;
   border: 1px solid black;
@@ -61,6 +60,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  margin-left: 17%;
 }
 .res__ul li {
   display: inline-block;
@@ -69,7 +69,6 @@
 
 /* стили для блока поиска */
 .search__wrapper {
-  width: 95%;
   padding-left: 50px;
   border: 1px solid black;
 }
@@ -92,8 +91,11 @@
 
 /* стили для блока баннер */
 .banner__wrapper {
-  width: 95%;
   padding-left: 50px;
-  height: 100px;
   border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+.banner__img {
+  margin-left: 50px;
 }

@@ -1,6 +1,7 @@
  import React from 'react';
 import './App.css'
 import logo from './images/logo.png'
+import banner from './images/banner.png'
 
 // eslint-disable-next-line no-unused-vars
 import { news, currency, resurces, adv } from './assets/data'
@@ -22,7 +23,7 @@ function App() {
       <div className="main">
       <PortalResurces resurces={resurces} />
       <SearchBar logo={logo}></SearchBar>
-      <Banner></Banner>
+      <Banner banner={banner}></Banner>
       </div>
     </>
   )

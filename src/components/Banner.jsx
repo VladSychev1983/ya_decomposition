@@ -1,7 +1,7 @@
-function Banner() {
+function Banner({banner}) {
     return (
         <div className="banner__wrapper">
-            баннер тут.
+            <img src={banner} alt="" />
         </div>
     )
 }
