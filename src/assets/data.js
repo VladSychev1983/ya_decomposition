@@ -26,3 +26,62 @@ export const adv = {
     img: "img.png", title: "Работа над ошибками", content: "Смотрите на Яндексе и запоминайте", link:"#", 
  };
 
+ export const weather_data = {
+    title:"Погода",
+    img: "weather.png",
+    total: "+17",
+    day:  "+20",
+    morning: "+17"
+}
+
+export const tvbroadcast = [
+    {
+    title:"Управление как искусство",
+    description:"Успех",
+    link:"#" 
+    },
+    {
+    title:"Ночь.Мир в это время",
+    description:"earthTV",
+    link:"#" 
+    },
+    {
+    title:"Андрей Возн...",
+    description:"Совершенно секретно",
+    link:"#" 
+    }
+]
+
+export const visited = [
+    {
+    title:"Недвижимость",
+    description:"о сталинках",
+    link:"#",
+    },
+    {
+    title:"Маркет",
+    description:"люстры и светильники",    
+    },
+    {
+    title:"Авто.ру",
+    description:"привод 4х4 до 500000",    
+    }
+]
+
+export const tv = [
+    {
+    time:  "02:00",
+    show:"ТНТ.Best",
+    channel:"ТНТ International"    
+    },
+    {
+    time:"02:00",
+    show:"Джинглики",
+    channel:"Карусель INT",
+    },
+    {
+    time:"02:25",
+    show:"Наедине со всеми",
+    channel:"Первый",
+    },
+]
