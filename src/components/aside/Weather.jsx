@@ -1,3 +1,6 @@
+/**
+виджет погода.
+ */
 import React from "react";
 
 function Weather({data}) {

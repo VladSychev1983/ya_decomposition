@@ -1,3 +1,6 @@
+/**
+модуль отображает котировки валют
+ */
 import React from "react";
 function CurrencyQuotes ({currency}) {
     return (

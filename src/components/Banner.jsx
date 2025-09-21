@@ -1,3 +1,6 @@
+/**
+баннер под строкой поиска
+ */
 function Banner({banner}) {
     return (
         <div className="banner__wrapper">

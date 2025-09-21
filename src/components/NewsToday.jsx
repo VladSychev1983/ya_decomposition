@@ -1,3 +1,6 @@
+/**
+модуль отображает блок новостей
+ */
 import React from "react";
 import CurrencyQuotes from "./CurrencyQuotes";
 

@@ -1,3 +1,6 @@
+/**
+рекламный компонент
+ */
 import React from "react";
 function Advertising ({img, title, link, children}) {
     console.log(title)

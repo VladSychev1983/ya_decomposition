@@ -1,3 +1,6 @@
+/**
+ссылки на другие ресурсы.
+ */
 function PortalResurces({resurces}) {
     return (
         <div className="res__wrapper">

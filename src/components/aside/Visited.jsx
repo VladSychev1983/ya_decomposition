@@ -1,3 +1,6 @@
+/**
+виджет посещаемое
+ */
 import React from "react";
 
 function Visited({data}) {

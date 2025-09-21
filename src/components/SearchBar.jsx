@@ -1,3 +1,6 @@
+/**
+компонент формы поиска
+ */
 function SearchBar( {logo}) {
     return(
         <div className="search__wrapper">

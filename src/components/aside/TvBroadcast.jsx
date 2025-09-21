@@ -1,3 +1,6 @@
+/**
+виджет эфир
+ */
 import React from "react";
 function TvBroadcast ({title, tvboadcast}) {
     return (

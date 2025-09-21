@@ -1,3 +1,6 @@
+/**
+виджет тв программа.
+ */
 import React from "react";
 
 function Tv({title, data}) {
